@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "beaconplay-4e87c",
+    "staging": "beaconplay-staging"
+  },
+  "targets": {},
+  "etags": {}
+}
